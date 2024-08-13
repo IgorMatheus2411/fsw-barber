@@ -37,7 +37,7 @@ const SidebarSheet = () => {
           </div>
         ) : (
           <>
-            {/* SE NAO ESTIVER  ELOGADO */}
+            {/* SE NAO ESTIVER LOGADO */}
             <h2 className="font-bold">Olá,faça seu login!</h2>
             <Dialog>
               <DialogTrigger asChild>
